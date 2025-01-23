@@ -2,6 +2,7 @@ import React from 'react';
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../redux/cartSlice';
 
+
 const plants = [
   { id: 1, name: 'Aloe Vera', price: 10, category: 'Succulents', image: '/aloe.jpg' },
   { id: 2, name: 'Snake Plant', price: 15, category: 'Air Purifiers', image: '/snake.jpg' },
