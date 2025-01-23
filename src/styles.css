@@ -1,0 +1,14 @@
+.landing-page {
+    background-image: url('/path-to-image.jpg');
+    background-size: cover;
+    text-align: center;
+    padding: 50px;
+    color: white;
+  }
+  
+  .category {
+    display: flex;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
